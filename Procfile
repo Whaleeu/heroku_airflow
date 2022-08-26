@@ -1,1 +1,1 @@
-web: airflow webserver -p 
+web: airflow webserver --port 
