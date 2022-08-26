@@ -1,1 +1,1 @@
-web:airflow dbinit
+web: airflow webserver --port $PORT
